@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+pymongo[srv]==4.7.3
+dnspython==2.6.1
+opencv-python-headless==4.9.0.80
+pytesseract==0.3.10
+pyzbar==0.1.9
+scikit-image==0.23.2
+numpy==1.26.4
+Pillow==10.3.0
+scipy==1.13.1
+requests==2.32.3
